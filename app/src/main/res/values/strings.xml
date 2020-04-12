@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rápido y sabroso</string>
+    <string name="bienvenida">Bienvenid@!</string>
+    <string name="seleccionaste">Tu plato!</string>
+    <string name="seleccionMetodo">Método de pago:</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="enviar">Enviar</string>
+    <string name="gracias">Gracias por su preferencia. Su pedido está en preparación</string>
+</resources>
